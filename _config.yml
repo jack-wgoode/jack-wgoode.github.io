@@ -1,11 +1,11 @@
 # Site settings
-author: Jack Goode
-title: 
+author: Jack W. Goode
+title: Why go to Flatiron Bootcamp Now?
 header-img: img/home-bg.png
 email: jack.w.goode@icloud.com
-copyright_name: Jack Goode
+copyright_name: Jack W. Goode
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jack-wgoode
