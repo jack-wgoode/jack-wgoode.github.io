@@ -43,7 +43,3 @@ a "getter" method and your dog will tell you. If you want to make it a bassett h
 Being able to model the real world is what allows developers to create applications that you use every day. The player in your favorite game or your "desktop" on your PC let you interact in predictable ways. How do we create an actual object and use its attributes and methods?  In our next exciting blog post, we will dive into the power of objects. In the meantime, keep it "classy". 
 
 Comments, Corrections, and feedback are always welcome. 
-
-
-
-
