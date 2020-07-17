@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "First Milestone Project - Flatiron Bootcamp"
-date:       2020-07-17 20:55:15 +0000
+date:       2020-07-17 16:55:16 -0400
 permalink:  first_milestone_project_-_flatiron_bootcamp
 ---
 
