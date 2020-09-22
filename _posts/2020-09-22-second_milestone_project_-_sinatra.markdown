@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "Second Milestone Project - Sinatra"
-date:       2020-09-22 13:01:12 +0000
+date:       2020-09-22 09:01:13 -0400
 permalink:  second_milestone_project_-_sinatra
 ---
 
 
 We are all familiar with Ruby on Rails. Just where does Sinatra fit in? No, I am not talking about the iconic crooner
-who made "My Way" a classic but that theme will apply. My project was a simple "PawPost" application  which simulated an Owner signing up their dogs for doggie daycare. In a nutshell, I needed a CRUD application with ](http://)authetication. The models were Owner and Dog. The resource was dogs. By using ActiveRecord associations of has_many and belongs_to, I was able to tap into the methods to limit owners to their own dogs.
+who made "My Way" a classic but that theme will apply. My project was a simple "PawPost" application  which simulated an Owner signing up their dogs for doggie daycare. In a nutshell, I needed a CRUD application with ]authetication. The models were Owner and Dog. The resource was dogs. By using ActiveRecord associations of has_many and belongs_to, I was able to tap into the methods to limit owners to their own dogs.
 
 ## Why Sinatra? 
 Yes, Ruby on Rails is the powerful "Swiss Army Knife" and it is great for spinning up a web application with concise commands like 
